@@ -1,19 +1,16 @@
-/* This is styles for P tags*/
-<<<<<<< HEAD
-h2{
-    font-size: 24px;
+body{
+color: red;
 }
 
-#contentHeader{
-    font-size: 18px;
-    color: red;
+div{
+color: blue;
 }
 
-span{
-    display: block;
-    color: blue;
+p{
+color: green;
 }
 
-.deck{
-    color: red;
+a{
+color: yellow;
+text-decoration: underline;
 }
