@@ -1,15 +1,7 @@
-#mainContent p{
-color: red;
-}
-
 p{
-color: black;
+color: red !important;
 }
 
-.test {
-color: green;
-}
-
-strong{
+#mainContent p{
 color: green;
 }
