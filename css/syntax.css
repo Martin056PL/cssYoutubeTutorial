@@ -1,4 +1,18 @@
+/* This is styles for P tags*/
 p{
     font-size:18px;
     color: red;
 }
+
+#header p{
+font-size: 24px;
+color: blue;
+}
+
+/*Style all header tags*/
+
+h1{
+font-size: 44px;
+}
+
+/*Styles for h1*/
